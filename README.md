@@ -10,6 +10,8 @@ For the screen capture, it uses the browser's [Screen Capture API](https://devel
 
 For requesting the picture in picture, it uses the browser's [Picture-in-Picture API](https://developer.mozilla.org/en-US/docs/Web/API/Picture-in-Picture_API).
 
+**Note:** This app was tested successfully in Google Chrome Desktop and it seems that it only works there for now (20220520).
+
 ## Special Thanks
 
 Built with the help of [Zero To Mastery](https://zerotomastery.io/courses/javascript-projects/).
