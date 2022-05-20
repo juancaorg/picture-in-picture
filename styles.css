@@ -13,5 +13,26 @@ body {
 	justify-content: center;
 	align-items: center;
 	background: rgb(37, 37, 37);
+}
+
+button {
 	font-family: 'Inter', sans-serif;
+	font-size: 25px;
+	cursor: pointer;	
+	outline: none;
+	width: 120px;
+	height: 75px;
+	color: white;
+	text-shadow: 0 2px 5px black;
+	background: linear-gradient(to top, #696969, #575757);
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+button:hover {
+	background: linear-gradient(to bottom, #696969, #575757);
+}
+
+button:active {
+	transform: translateY(3px);
 }
