@@ -9,7 +9,7 @@ async function selectMediaStream() {
 		VIDEO_ELEMENT.onloadedmetadata = () => {
 			VIDEO_ELEMENT.play();
 		};
-	} catch(error) {
+	} catch (error) {
 		console.log(`We have encountered an error: ${error}`);
 	}
 }
