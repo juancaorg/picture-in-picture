@@ -1,6 +1,6 @@
 # Picture in Picture
 
-A Picture in Picture demo built with vanilla JavaScript.
+A Picture-in-Picture demo app built with vanilla JavaScript.
 
 ## Features
 
